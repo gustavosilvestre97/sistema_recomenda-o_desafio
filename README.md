@@ -1,4 +1,4 @@
-# sistema_recomenda-o_desafio
+# Sistema de recomendção desafio
 Hackathon DNC - Day 7
 
 Durante  a  pandemia  os  números  de  vendas  da  Razzle  Dazzle  (e-commerce  de 
